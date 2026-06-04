@@ -2,7 +2,8 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #383842;
+  --foreground: #171717;
+  --foreground-hover: #6bfd77;
 }
 
 @theme inline {
